@@ -13,10 +13,11 @@
     }
 }
 
-.avatar, .info {
-    display: inline-block;
+.wrapper {
+    display: flex;
     }
-    
+
+
 .card {
     padding: 10px;
     background-color: aquamarine;
