@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Roboto:ital@1&display=swap');
+
+
+
+    body{
+    font: normal 20px 'Edu NSW ACT Foundation', serif;
+    
+   
+}
+
+@media{
+    body{ background-image: url('https://sun9-6.userapi.com/impg/vnUR1KX0BiMDTG1VpMu2UJgh8FdCu7WfLbMJJg/zHkuvP1MdXY.jpg?size=640x1137&quality=95&sign=5787ad3b79d9e58cad8e253169efaade&type=album');
+    }
+}
+
+.avatar, .info {
+    display: inline-block;
+    }
+    
+.card {
+    padding: 10px;
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.conteiner{
+    margin: auto;
+    max-width: 750px;
+    padding-top: 30px;
+}
+
+    
+.avatar{
+    padding: 10px;
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.info{
+    padding: 10px;
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 10px;
+}
+
